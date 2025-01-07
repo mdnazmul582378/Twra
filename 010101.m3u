@@ -155,7 +155,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Music Channels",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/mono.m3u8 SONY
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="Kolkatta Channels",Ten 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="Sports Channels",Ten 1
 https://raw.githubusercontent.com/parvezkhan11bd/my_iptv/refs/heads/main/video/test.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEGnGZmFWIGFTmLmtjIcsip2xO05sTdxiBumd2iYUcWtKBQbRjNOds6LT&s=10" group-title="Movie Channels",B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
@@ -175,11 +175,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-name="Ten Sports HD" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg", Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Fancode" tvg-logo="https://drmlive.in/sports/fancode.png" group-title="Sports", Fancode
+#EXTINF:-1 tvg-name="Fancode" tvg-logo="https://drmlive.in/sports/fancode.png" group-title="Sports Channels", Fancode
 https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
-#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="Sports", Ten Cricket
+#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="Sports Channels", Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" group-title="Sports", Astro Cricket
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" group-title="Sports Channels", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5PoYLuRBTRrIqg_Te-Lc-EjsCN3bZzBZpUrQyzVITKuzmNBfAwfPXTg&s=10" group-title="Music Channels",9x TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
