@@ -171,9 +171,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/576b9cd1-dcd1-4855-b4cc-0954a10e23c7/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIw-wZX2MHWzpsC3lBRL6-vsLuYPXFC0GnYFAplt2Y44BBiURXKAqrAs&s=10" group-title="Music Channels",Balle Balle
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/1fb45870-e96b-403b-a08c-9b10838acdbc/0.m3u8
-#EXTINF:-1 group-title="Sports" tvg-name="PTV Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg", PTV Sports
+#EXTINF:-1 group-title="Sports Channels" tvg-name="PTV Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg", PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-name="Ten Sports HD" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg", Ten Sports HD
+#EXTINF:-1 group-title="Sports Channels" tvg-name="Ten Sports HD" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg", Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fancode" tvg-logo="https://drmlive.in/sports/fancode.png" group-title="Sports Channels", Fancode
 https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
